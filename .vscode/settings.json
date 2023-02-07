@@ -1,6 +1,7 @@
 {
   "python.analysis.typeCheckingMode": "basic",
   "cSpell.words": [
+    "airpods",
     "alcóolica",
     "alcóolicas",
     "codigo",
@@ -12,5 +13,7 @@
     "posicao",
     "preco",
     "qtde"
-  ]
+  ],
+  "discord.enabled": true,
+  "vscord.enabled": true
 }

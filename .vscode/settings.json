@@ -4,7 +4,9 @@
     "airpods",
     "alcóolica",
     "alcóolicas",
+    "alexa",
     "codigo",
+    "ecommerce",
     "funcionario",
     "Iphone",
     "Lucarelli",
@@ -12,8 +14,11 @@
     "pepsi",
     "posicao",
     "preco",
+    "printar",
     "qtde"
   ],
   "discord.enabled": true,
-  "vscord.enabled": true
+  "vscord.enabled": true,
+  "editor.fontFamily": "Melon Regular",
+  "files.autoSave": "onWindowChange"
 }

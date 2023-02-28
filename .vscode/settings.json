@@ -23,5 +23,6 @@
   "discord.enabled": true,
   "vscord.enabled": true,
   "editor.fontFamily": "Melon Regular",
-  "files.autoSave": "onWindowChange"
+  "files.autoSave": "onWindowChange",
+  "cSpell.language": "pt"
 }

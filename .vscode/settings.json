@@ -22,7 +22,7 @@
   ],
   "discord.enabled": true,
   "vscord.enabled": true,
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "JetBrains Mono ",
   "editor.fontLigatures": true,
   "files.autoSave": "onWindowChange",
   "cSpell.language": "pt"

@@ -1,7 +1,10 @@
 # Curso de Python Impressionador da Hashtag Treinamentos
 
-## Objetivo do curso é sair do Zero até o Python Impressionador!!!
-### Curso em andamento!
+## Objetivo do curso é sair do Zero até o Python Impressionador!!!<br>
+### Curso em andamento!<br>
+
+<img src="./img/python-lira.png" alt="Imagem Python - Lira" ><br>
+
 1. Introdução (Assista antes de começar)
 2. Instalação
 3. (Opcional) Lógica de Programação - Nunca programou Comece aqui
@@ -54,4 +57,3 @@
 50. Intensivão de Python (Versão Atual)
 51. Gravações - Aulas Tira Dúvidas
 
-<img src="./img/python-lira.png" alt="Imagem Python - Lira" >

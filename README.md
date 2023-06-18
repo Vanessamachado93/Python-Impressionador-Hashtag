@@ -5,22 +5,22 @@
 
 <img src="./img/python-lira.png" alt="Imagem Python - Lira" ><br>
 
-1. Introdução (Assista antes de começar)
-2. Instalação
-3. (Opcional) Lógica de Programação - Nunca programou Comece aqui
-4. Seus primeiros programas em Python
-5. Mais sobre Variáveis
-6. If - Condições em Python
-7. Strings - Textos e a importância no Python
-8. Listas Python - Métodos e Usos
-9. For - Estrutura de Repetição
-10. While e Criando um Loop infinito
-11. Tuplas - Uma "lista" muito útil e imutável
-12. Dicionários em Python
-13. Iterables
-14. Criando suas funções em Python
-15.  Módulos, Bibliotecas e Introdução à Orientação a Objeto
-16. Exercícios e O que falta aprender agora?
+1. [x]  Introdução (Assista antes de começar)
+2.  [x] Instalação
+3.  [x] Lógica de Programação - Nunca programou Comece aqui
+4. [x] Seus primeiros programas em Python
+5. [x] Mais sobre Variáveis
+6. [x] If - Condições em Python
+7. [x] Strings - Textos e a importância no Python
+8. [x] Listas Python - Métodos e Usos
+9. [x] For - Estrutura de Repetição
+10. [x] While e Criando um Loop infinito
+11. [x] Tuplas - Uma "lista" muito útil e imutável
+12. [x] Dicionários em Python
+13. [x] Iterables
+14. [x] Criando suas funções em Python
+15.  [x] Módulos, Bibliotecas e Introdução à Orientação a Objeto
+16. [x] Exercícios e O que falta aprender agora?
 17. List Comprehension
 18. Functions usadas como parâmetro e Expressões Lambda
 19. Análise da Dados com o Pandas + Integração Python e Excel

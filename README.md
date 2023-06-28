@@ -22,8 +22,8 @@
 15.  [x] Módulos, Bibliotecas e Introdução à Orientação a Objeto
 16. [x] Exercícios e O que falta aprender agora?
 17. [x] List Comprehension
-18. Functions usadas como parâmetro e Expressões Lambda
-19. Análise da Dados com o Pandas + Integração Python e Excel
+18. [x] Functions usadas como parâmetro e Expressões Lambda
+19. [x] Análise da Dados com o Pandas + Integração Python e Excel
 20. Como ler documentações
 21. Integração Python com Arquivos txt e PDF
 22. Integração Python - Arquivos e Pastas do Computador

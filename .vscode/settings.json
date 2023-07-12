@@ -1,4 +1,5 @@
 {
-    "editor.fontFamily": "Fira Code",
-    "python.analysis.typeCheckingMode": "basic"
+    "editor.fontFamily": "JetBrainsMono-Regular",
+    "python.analysis.typeCheckingMode": "basic",
+    "files.autoSave": "onWindowChange"
 }

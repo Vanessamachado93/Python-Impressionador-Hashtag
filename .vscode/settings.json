@@ -1,5 +1,6 @@
 {
-    "editor.fontFamily": "JetBrainsMono-Regular",
+    "editor.fontFamily": "JetBrainsMono",
     "python.analysis.typeCheckingMode": "basic",
-    "files.autoSave": "onWindowChange"
+    "files.autoSave": "onWindowChange",
+    "cSpell.language": "pt"
 }

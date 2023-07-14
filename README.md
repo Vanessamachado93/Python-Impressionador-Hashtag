@@ -24,8 +24,8 @@
 17. [x] List Comprehension
 18. [x] Functions usadas como parâmetro e Expressões Lambda
 19. [x] Análise da Dados com o Pandas + Integração Python e Excel
-20. Como ler documentações
-21. Integração Python com Arquivos txt e PDF
+20. [x] Como ler documentações
+21. [x] Integração Python com Arquivos txt e PDF
 22. Integração Python - Arquivos e Pastas do Computador
 23. Integração Python - E-mail
 24. Integração Python - SQL

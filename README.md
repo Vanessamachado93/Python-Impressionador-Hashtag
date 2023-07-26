@@ -26,7 +26,7 @@
 19. [x] Análise da Dados com o Pandas + Integração Python e Excel
 20. [x] Como ler documentações
 21. [x] Integração Python com Arquivos txt e PDF
-22. Integração Python - Arquivos e Pastas do Computador
+22. [x] Integração Python - Arquivos e Pastas do Computador
 23. Integração Python - E-mail
 24. Integração Python - SQL
 25. Integração Python - Automação Web (Web-Scraping com Selenium)
